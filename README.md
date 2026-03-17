@@ -14,8 +14,11 @@
 * **Критический период** — первые 1-3 месяца. Наибольший риск оттока наблюдается на этапе онбординга.
 * **Тип контракта:** Клиенты с контрактом "Month-to-month" уходят в разы чаще, чем клиенты с долгосрочными обязательствами.
 * **Fiber Optic:** Пользователи оптоволокна демонстрируют аномально высокий уровень оттока, что может сигнализировать о проблемах с качеством или завышенной цене услуги.
-<img src="images/dep.png" width="900">
-<img src="images/shap.png" width="600">
+<img src="images/dep.png" width="800">
+<p align="left">
+  <img src="images/shap.png" width="404" />
+  <img src="images/buck.png" width="400" />
+</p>
 
 ## 🤖 Моделирование и ML
 * **Созданы новые бизнес-метрики** (Feature Engineering): `ARPU` (Average Revenue Per User) и `Tenure Cohorts`.
